@@ -1,5 +1,5 @@
 //store the value of my current age
-let myAge
+let myAge = 23;
 
 //store the value of 2
 let earlyYears = 2
